@@ -34,15 +34,4 @@ A powerful Visualization tool that allows users to draw various shapes based on 
 4. Move to cloned directory *VisualizerTool* and run build commands using shortcut **Ctrl + Shift + B**.
 
 5. Run the generated **main.exe** file.
-  
-## Contributors
 
-A big thank you to the following individuals for their contributions to this project:
-
-- [Shreyansh Gupta](mailto:221210099@nitdelhi.ac.in) ( Myself )
-- [Utkarsh Trivedi](mailto:221210114@nitdelhi.ac.in)
-- [Shivam Kumar](mailto:221210098@nitdelhi.ac.in)
-
-## Contact
-
-For questions or inquiries, please contact [<ins>here</ins>](guptashreyansh2048@gmail.com).
